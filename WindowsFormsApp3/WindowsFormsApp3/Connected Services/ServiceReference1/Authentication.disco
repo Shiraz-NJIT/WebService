@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<discovery xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schemas.xmlsoap.org/disco/">
+  <contractRef ref="https://oas1.sums.ac.ir:8081/farzinsoft/webservices/OA/Authentication.asmx?wsdl" docRef="https://oas1.sums.ac.ir:8081/farzinsoft/webservices/OA/Authentication.asmx" xmlns="http://schemas.xmlsoap.org/disco/scl/" />
+  <soap address="https://oas1.sums.ac.ir:8081/farzinsoft/webservices/OA/Authentication.asmx" xmlns:q1="http://ICAN.ir/Farzin/WebServices/" binding="q1:AuthenticationSoap" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+  <soap address="https://oas1.sums.ac.ir:8081/farzinsoft/webservices/OA/Authentication.asmx" xmlns:q2="http://ICAN.ir/Farzin/WebServices/" binding="q2:AuthenticationSoap12" xmlns="http://schemas.xmlsoap.org/disco/soap/" />
+</discovery>
